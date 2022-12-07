@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @cakkkel
-- Put rotten ing...
-- 📫 How to reach me ... frostforz@gmal.com
+- 📫 How to reach me ... frostforz@gmail.com
