@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @cakkkel
+- 👋 Hi, this is Yuechen Zhang, a Junior majoring in software engineering digital media track.
 - 📫 How to reach me ... frostforz@gmail.com
 
-< img src="https://github-readme-stats.vercel.app/api?username=Zhang-ycc&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /\>
+![Zhang-yc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-ycc&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-ycc&layout=compact)
