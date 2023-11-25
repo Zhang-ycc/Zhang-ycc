@@ -10,7 +10,7 @@
 
 # More about me
 
-Life without risk is the most perilous of all.
+Believe in the perfection in imperfection.
 
 - sodagreen always
 - Otome Game Localizer
