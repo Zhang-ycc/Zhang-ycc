@@ -12,6 +12,6 @@
 
 Believe in the perfection in imperfection.
 
-- sodagreen always
+- Motion Sickness
 - Otome Game Localizer
 
